@@ -1,0 +1,6 @@
+coffeemaker\Menu\Ingredient.class
+coffeemaker\App.class
+coffeemaker\Machine\BrandMachine.class
+coffeemaker\Menu\MenuChoices.class
+coffeemaker\Menu\Beverage.class
+coffeemaker\Machine\BrandMachineLauncher.class
